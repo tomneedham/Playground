@@ -4,7 +4,7 @@
  * ownCloud
  *
  * @author Tom Needham
- * @copyright 2012 Tom Needham tom@owncloud.org
+ * @copyright 2012 Tom Needham tom@owncloud.com
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU AFFERO GENERAL PUBLIC LICENSE
@@ -27,9 +27,9 @@
 class OC_User_Amahi extends OC_User_Backend {
 
   const HOSTNAME = 'localhost';
-  const USERNAME = '%%%%%USERNAME%%%%%';  // <-- str_replace() these on install of ownCLoud Amahi App
-  const PASSWORD = '%%%%%PASSWORD%%%%%';
-  const DATBASE = 'users';
+  const USERNAME = 'amahihda';
+  const PASSWORD = 'AmahiHDARulez';
+  const DATABASE = 'hda_production';
 
   self::init = false;
 
