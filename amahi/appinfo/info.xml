@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <info>
-	<id>user_amahi</id>
-	<name>Amahi Home Server User Backend</name>
+	<id>amahi</id>
+	<name>Amahi Home Server</name>
 	<version>0.1</version>
 	<licence>AGPL</licence>
 	<author>Tom needham</author>
